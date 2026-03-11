@@ -39,7 +39,7 @@ A Python-based Command Line Interface (CLI) application that generates secure an
 ## 📂 Project Structure
 
 ```
-password-generator/
+Smart Password Generator/
 │
 ├── password_generator.py
 └── README.md
