@@ -1,4 +1,4 @@
-# 🔐 Smart Password Generator (CLI)
+# Smart Password Generator
 
 A Python-based Command Line Interface (CLI) application that generates secure and unpredictable passwords using user input, character transformation, and random character insertion. The system converts user-provided words into stronger passwords using **Leetspeak transformation**, adds random characters, and shuffles the final output to increase security.
 
